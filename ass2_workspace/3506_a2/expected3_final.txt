@@ -1,0 +1,1 @@
+eyes 180 ( nose ) vertebrae -90 ( leg ) 90 ( leg ) vertebrae vertebrae -90 ( leg ) 90 ( leg ) dash dash tail

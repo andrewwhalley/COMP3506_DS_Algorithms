@@ -1,0 +1,11 @@
+X = Z a -90
+Z = B Y -90
+Y = e Z 0
+B = c d 0
+
+o
+a = a
+B = b
+c = c
+d = d
+e = e

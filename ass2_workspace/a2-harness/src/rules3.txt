@@ -1,0 +1,15 @@
+Z = head torso 0
+head = eyes nose 180
+torso = legseg spine 0
+legseg = core leg 90
+core = vertebrae leg -90
+spine = vertebrae pelvis 0
+pelvis = legseg tail 0
+tail = dash tail 0
+
+>
+nose = <
+eyes = :
+vertebrae = (
+dash = -
+leg = <

@@ -1,0 +1,8 @@
+Z = C R 90
+C = d L -90
+L = d L 0
+R = u R 0
+
+o
+u = ^
+d = v

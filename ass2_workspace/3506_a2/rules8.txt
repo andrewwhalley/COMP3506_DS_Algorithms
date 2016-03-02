@@ -1,0 +1,11 @@
+X = Z a 180
+Z = B Y 180
+Y = e Z 90
+B = c d 0
+
+o
+a = a
+B = b
+c = c
+d = d
+e = e

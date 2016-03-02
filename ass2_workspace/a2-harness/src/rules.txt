@@ -1,0 +1,9 @@
+Z = B Y 90
+Y = E Z 0
+B = C D 0
+
+o
+B = b
+C = c
+D = d
+E = e

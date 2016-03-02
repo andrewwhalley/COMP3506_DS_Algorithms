@@ -1,0 +1,1 @@
+Z ( head ( eyes ) 180 ( nose ) ) ( torso ( legseg ( core ( vertebrae ) -90 ( leg ) ) 90 ( leg ) ) ( spine ( vertebrae ) ( pelvis ( legseg ( core ( vertebrae ) -90 ( leg ) ) 90 ( leg ) ) ( tail ( dash ) ( tail ( dash ) ( tail ) ) ) ) ) )
